@@ -4,6 +4,10 @@
 <img align="right" width="200" height="200" src="http://ironzombi.com/images/jack_frost.jpg"> </img>
 
 > I would love to be able to code. 
+> write a program
+> .
+> .
+> 
 
 <!--
 **ironzombi/ironzombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
