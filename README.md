@@ -1,12 +1,8 @@
 ### fsec 〰️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironzombi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  
-<img align="right" width="200" height="240" src="http://ironzombi.com/images/jack_frost.jpg"> </img>
-Hee-Ho!
-> .
-> .
-> .
-> 
+<img align="right" width="200" height="240" src="http://ironzombi.com/images/jack_frost.jpg">Hee-Ho! </img>
+
 
 <!--
 **ironzombi/ironzombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
