@@ -1,6 +1,8 @@
 ### fsec 〰️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironzombi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)  <img align="right" width="200" height="240" src="http://ironzombi.com/images/jack_frost.jpg">  </img>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+  <img align="right" width="200" height="240" src="http://ironzombi.com/images/jack_frost.jpg">  </img>
           Hee-Ho!
 
 <!--
