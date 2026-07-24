@@ -1,6 +1,6 @@
 ### fsec 〰️
 
-![Stats](./profile/stats.svg)
+<!--![Stats](./profile/stats.svg) -->
 ![Top Languages](./profile/top-langs.svg)
   <img align="center" width="200" height="240" src="http://ironzombi.com/images/jack_frost.jpg">  </img>
           Hee-Ho!
